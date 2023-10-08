@@ -1,0 +1,7 @@
+alt shift down = copy direct __LINE__
+ctrl d to select whole item.
+ctrl click to find the error.
+shift alt n to format code;
+ctrl s to save file
+ctrl alt n to run code;
+ctrl i to open capicot;
